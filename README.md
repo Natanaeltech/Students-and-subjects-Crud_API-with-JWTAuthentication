@@ -19,3 +19,23 @@ Endpoints:
   - `DELETE /subjects/{id}` 
 
 Lancer avec `uvicorn app.main:app --reload`
+
+---
+
+#  Technologies utilisées
+
+- Python 3.x
+- FastAPI
+- SQLAlchemy
+- Pydantic
+- JWT Authentication
+- Uvicorn
+- MySQL
+
+---
+
+## Aperçu
+
+![Application Preview](assets/preview.png)
+
+![Application Preview](assets/preview2.png)
